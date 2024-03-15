@@ -1,0 +1,6 @@
+---
+tags:
+  - nicks-customs
+  - players
+---
+
